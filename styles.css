@@ -1,0 +1,65 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.hero {
+    text-align: center;
+    padding: 40px;
+}
+
+.hero img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.fruit-selection {
+    background-color: #f8f8f8;
+    padding: 40px;
+    text-align: center;
+}
+
+.fruit-item {
+    margin: 20px;
+}
+
+.fruit-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.about, .contact {
+    padding: 40px;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: #4CAF50;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #45a049;
+}
